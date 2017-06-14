@@ -602,4 +602,5 @@ PRODUCT_PACKAGES += \
     colorservice \
     ims \
     imssettings \
-    qcrilhook
+    qcrilhook \
+    FXBrowser
