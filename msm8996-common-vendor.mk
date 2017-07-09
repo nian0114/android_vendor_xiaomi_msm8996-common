@@ -603,4 +603,6 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     qcrilhook \
-    FXBrowser
+    FXBrowser \
+    CameraNX \
+    encore
