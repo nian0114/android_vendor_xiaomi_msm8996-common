@@ -602,7 +602,4 @@ PRODUCT_PACKAGES += \
     colorservice \
     ims \
     imssettings \
-    qcrilhook \
-    FXBrowser \
-    CameraNX \
-    encore
+    qcrilhook
